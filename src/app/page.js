@@ -1,7 +1,7 @@
 import Banner1 from "@/components/banner1";
 import Testimonials from "@/components/testimonials";
 import FeaturedProducts from "@/components/featuredproducts";
-import CategorySection from "@/components/categorysection";
+import CategorySection from "@/components/CategorySection";
 
 export default function Home() {
   return (
