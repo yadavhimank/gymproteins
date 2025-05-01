@@ -99,7 +99,7 @@ const Banner1 = () => {
                   <motion.button
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
-                    className=" text-white border rounded-2xl p-3 hover:bg-white hover:text-secondary hover:text-black"
+                    className=" text-white mr-4 border p-3 rounded-2xl hover:bg-white hover:text-black"
                   >
                     Learn More
                   </motion.button>
